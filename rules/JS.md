@@ -1,3 +1,7 @@
+# JS rules
+
+- Use functional and declarative programming patterns; avoid classes.
+
 ## Rule: Prefer Uint8Array over Buffer
 
 - Use **Uint8Array** as the primary binary data type across environments (Node.js and browsers).
