@@ -10,7 +10,7 @@ Less, but better.
 - [Phoenixframework AGENTS.md](https://github.com/phoenixframework/phoenix/blob/v1.8.1/installer/templates/phx_single/AGENTS.md)
 - [cursor.directory Offcial Rules](https://cursor.directory/rules/official)
 
-## Tools
+## Awesome Tools
 
 - Write code
     - [Cursor](https://cursor.com/)
